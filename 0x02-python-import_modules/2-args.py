@@ -2,7 +2,6 @@
 if __name__ == '__main__':
 
     import sys
-
     argucnt = len(sys.argv) - 1
     # our condi that will demonstaret our program
     if argucnt == 0:
