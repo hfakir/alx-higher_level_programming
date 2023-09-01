@@ -1,5 +1,19 @@
 # 0x01-python-if_else_loops_functions
 
+![code-1](https://github.com/hfakir/alx-higher_level_programming/assets/114278488/e0a44b2e-fdc1-4eb4-b440-6f99beac2d11)
+
+# RESOURCES
+
+https://docs.python.org/3/tutorial/controlflow.html
+
+https://www.youtube.com/watch?v=1QXOd2ZQs-Q
+
+https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3
+
+https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt
+
+https://pypi.org/project/pycodestyle/
+
 This repository contains the solutions for the "0x01-python-if_else_loops_functions" project as part of the ALX School curriculum. The project focuses on understanding and implementing concepts related to if/else statements, loops, and functions in Python.
 
 ## Files
