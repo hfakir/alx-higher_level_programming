@@ -10,3 +10,5 @@
 [Learn to Program 12 Lambda Map Filter Reduce](https://www.youtube.com/watch?v=1GAC6KQUPeg)
 
 ## Function Prototypes
+
+Prototypes for functions written in this project:
