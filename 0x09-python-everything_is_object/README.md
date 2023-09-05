@@ -12,6 +12,9 @@
 
 [Mutation](https://www.composingprograms.com/pages/24-mutable-data.html)
 
+![giphy](https://github.com/hfakir/alx-higher_level_programming/assets/114278488/4ea81491-02d4-4331-9fa5-8a2c6b181f7a)
+
+
 [9.12. Cloning lists](https://www.openbookproject.net/thinkcs/python/english2e/ch09.html#cloning-lists)
 
 [Python tuples: immutable but potentially changing](http://radar.oreilly.com/2014/10/python-tuples-immutable-but-potentially-changing.html)
