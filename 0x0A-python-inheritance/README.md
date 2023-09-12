@@ -1,5 +1,7 @@
 # 0x0A. Python - Inheritance
  
+![python-coding-mistakes](https://github.com/hfakir/alx-higher_level_programming/assets/114278488/23ab3589-5a48-4161-b093-0e9c873008a9)
+
  
 ## RESOURCES
 
